@@ -151,7 +151,6 @@ C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\scopedcss\bundle\selianordgroup.com.styles.css
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\scopedcss\projectbundle\selianordgroup.com.bundle.scp.css
-C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\compressed\v1navd89bu-b9sayid5wm.gz
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\compressed\6h6513c7ux-61n19gt1b8.gz
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\compressed\29mk0ufg63-xtxxf3hu2r.gz
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\compressed\bgph0sleru-bqjiyaj88i.gz
@@ -230,3 +229,4 @@ C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\selianordgroup.com.pdb
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\selianordgroup.com.genruntimeconfig.cache
 C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\ref\selianordgroup.com.dll
+C:\Users\LusukamaSelemani\OneDrive - CTU Training Solutions (PTY) Ltd\Documents\selianordgroup.com\obj\Debug\net9.0\compressed\v1navd89bu-skbwe5wygz.gz
