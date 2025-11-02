@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("selianordgroup.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d80bdeef48d7052da9166f0e9c326c83807f3e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84c97dc6572d3dd2bf6c327c7bba6f6891a9c827")]
 [assembly: System.Reflection.AssemblyProductAttribute("selianordgroup.com")]
 [assembly: System.Reflection.AssemblyTitleAttribute("selianordgroup.com")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
