@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3gs79kwoyFlzQZjQiZA3e0HP098cadiuFrXBeNz6GeE=",
+  "Hash": "oMXaKt6QNmTdCKmDSpXzswMo6FGJcK6ssZvbIH2kVzw=",
   "Source": "selianordgroup.com",
   "BasePath": "_content/selianordgroup.com",
   "Mode": "Default",
@@ -1130,12 +1130,12 @@
       "OriginalItemSpec": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\scopedcss\\bundle\\selianordgroup.com.styles.css"
     },
     {
-      "Identity": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-skbwe5wygz.gz",
+      "Identity": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-umhclva1kk.gz",
       "SourceId": "selianordgroup.com",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/selianordgroup.com",
-      "RelativePath": "css/site#[.{fingerprint=skbwe5wygz}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=umhclva1kk}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1144,8 +1144,8 @@
       "RelatedAsset": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kejnkvnmxt",
-      "Integrity": "/CFUZl9GvbJn0nW5owN0XhIS8AgR+ZR6zW+7a6ZATa8=",
+      "Fingerprint": "h2oyoog07m",
+      "Integrity": "p9mQ3jaZ7Ub3SmdszXlu7MOm98ijGIxutjl61S4XVGM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "skbwe5wygz",
-      "Integrity": "nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E=",
+      "Fingerprint": "umhclva1kk",
+      "Integrity": "RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2729,12 +2729,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-skbwe5wygz.gz",
+      "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-umhclva1kk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002525252525"
+          "Quality": "0.000540540541"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "395"
+          "Value": "1849"
         },
         {
           "Name": "ETag",
-          "Value": "\"/CFUZl9GvbJn0nW5owN0XhIS8AgR+ZR6zW+7a6ZATa8=\""
+          "Value": "\"p9mQ3jaZ7Ub3SmdszXlu7MOm98ijGIxutjl61S4XVGM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 16:38:06 GMT"
+          "Value": "Sun, 02 Nov 2025 18:09:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E=\""
+          "Value": "W/\"RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E="
+          "Value": "sha256-RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g="
         }
       ]
     },
@@ -2793,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "846"
+          "Value": "7658"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E=\""
+          "Value": "\"RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 16:38:06 GMT"
+          "Value": "Sun, 02 Nov 2025 18:09:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E="
+          "Value": "sha256-RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-skbwe5wygz.gz",
+      "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-umhclva1kk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "395"
+          "Value": "1849"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/CFUZl9GvbJn0nW5owN0XhIS8AgR+ZR6zW+7a6ZATa8=\""
+          "Value": "\"p9mQ3jaZ7Ub3SmdszXlu7MOm98ijGIxutjl61S4XVGM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 16:38:06 GMT"
+          "Value": "Sun, 02 Nov 2025 18:09:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2860,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/CFUZl9GvbJn0nW5owN0XhIS8AgR+ZR6zW+7a6ZATa8="
+          "Value": "sha256-p9mQ3jaZ7Ub3SmdszXlu7MOm98ijGIxutjl61S4XVGM="
         }
       ]
     },
     {
-      "Route": "css/site.skbwe5wygz.css",
-      "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-skbwe5wygz.gz",
+      "Route": "css/site.umhclva1kk.css",
+      "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-umhclva1kk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002525252525"
+          "Quality": "0.000540540541"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2881,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "395"
+          "Value": "1849"
         },
         {
           "Name": "ETag",
-          "Value": "\"/CFUZl9GvbJn0nW5owN0XhIS8AgR+ZR6zW+7a6ZATa8=\""
+          "Value": "\"p9mQ3jaZ7Ub3SmdszXlu7MOm98ijGIxutjl61S4XVGM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 16:38:06 GMT"
+          "Value": "Sun, 02 Nov 2025 18:09:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E=\""
+          "Value": "W/\"RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "skbwe5wygz"
+          "Value": "umhclva1kk"
         },
         {
           "Name": "label",
@@ -2923,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E="
+          "Value": "sha256-RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g="
         }
       ]
     },
     {
-      "Route": "css/site.skbwe5wygz.css",
+      "Route": "css/site.umhclva1kk.css",
       "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "846"
+          "Value": "7658"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E=\""
+          "Value": "\"RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 16:38:06 GMT"
+          "Value": "Sun, 02 Nov 2025 18:09:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "skbwe5wygz"
+          "Value": "umhclva1kk"
         },
         {
           "Name": "label",
@@ -2968,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nISlQgSzxVF3FIuUKvmmk/Rsk0gvpPxVMSVvBTqQh5E="
+          "Value": "sha256-RtV1oJ4wnwsb1XkOBSs36/Msu9daactrT36WkIebN7g="
         }
       ]
     },
     {
-      "Route": "css/site.skbwe5wygz.css.gz",
-      "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-skbwe5wygz.gz",
+      "Route": "css/site.umhclva1kk.css.gz",
+      "AssetFile": "C:\\Users\\LusukamaSelemani\\OneDrive - CTU Training Solutions (PTY) Ltd\\Documents\\selianordgroup.com\\obj\\Debug\\net9.0\\compressed\\v1navd89bu-umhclva1kk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "395"
+          "Value": "1849"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/CFUZl9GvbJn0nW5owN0XhIS8AgR+ZR6zW+7a6ZATa8=\""
+          "Value": "\"p9mQ3jaZ7Ub3SmdszXlu7MOm98ijGIxutjl61S4XVGM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 02 Nov 2025 16:38:06 GMT"
+          "Value": "Sun, 02 Nov 2025 18:09:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "skbwe5wygz"
+          "Value": "umhclva1kk"
         },
         {
           "Name": "label",
@@ -3021,7 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/CFUZl9GvbJn0nW5owN0XhIS8AgR+ZR6zW+7a6ZATa8="
+          "Value": "sha256-p9mQ3jaZ7Ub3SmdszXlu7MOm98ijGIxutjl61S4XVGM="
         }
       ]
     },
